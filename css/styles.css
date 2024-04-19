@@ -1,0 +1,32 @@
+/* Es recomendable definir los tamaños por css */
+/* 
+Utilizo d-flex para usar justifi-content(alineacion Horiz) y alkign-items(alineacionn vertical) */
+
+.divPrincipal {
+  background-image: url("../img/reflejo-luces-montana-lago-capturado-parco-ciani-lugano-suiza.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+}
+
+.nav-link:hover {
+  opacity: 0.5;
+  transition: 0.5s;
+}
+
+
+.botonLearn:hover {
+  opacity: 0.5;
+  transition: 0.5s;
+
+}
+
+.segundoDiv {
+  background-color: #35374B;
+  height: auto;
+}
+
+
+.card {
+  background-color: #344955;
+}
